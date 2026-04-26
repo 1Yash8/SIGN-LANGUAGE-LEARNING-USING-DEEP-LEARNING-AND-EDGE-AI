@@ -1,4 +1,4 @@
-# C264 Sign Language Learning Platform
+# Sign Language Learning Platform
 
 An AI-powered platform for learning American Sign Language (ASL) and communicating securely, featuring real-time sign detection, a learning dashboard, and gamified progress tracking.
 

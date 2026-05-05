@@ -282,34 +282,6 @@ Use this account to:
 - Interactive User Experience
 
 ---
-
-# Screenshots
-
-## Login Page
-(Add Screenshot Here)
-
----
-
-## User Dashboard
-(Add Screenshot Here)
-
----
-
-## Learning Platform
-(Add Screenshot Here)
-
----
-
-## Real-Time Gesture Recognition
-(Add Screenshot Here)
-
----
-
-## Admin Dashboard
-(Add Screenshot Here)
-
----
-
 # Future Enhancements
 
 - Multi-language Sign Support
